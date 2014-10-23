@@ -5,15 +5,26 @@ api = 2
 projects[drupal][version] = "7.32"
 
 ; Modules
+
 projects[admin_menu][version] = "3.0-rc4"
 
+projects[advanced_menu][version] = "2.4"
+
+projects[author_pane][version] = "2.0"
+
 projects[analytics][version] = "1.0-alpha2"
+
+projects[bbb][version] = "1.x-dev"
+
+projects[ckeditor_lnk][version] = "2.3"
 
 projects[ctools][version] = "1.4"
 
 projects[date][version] = "2.8"
 
 projects[devel][version] = "1.5"
+
+projects[diff][version] = "3.2"
 
 projects[email][version] = "1.3"
 
@@ -22,6 +33,10 @@ projects[entity][version] = "1.5"
 projects[entityform][version] = "2.0-beta4"
 
 projects[features][version] = "2.2"
+
+projects[imce][version] = "1.9"
+
+projects[imce_wysiwyg][version] = "1.9"
 
 projects[jquery_update][version] = "2.4"
 
@@ -37,7 +52,11 @@ projects[profiler_builder][version] = "1.1"
 
 projects[token][version] = "1.5"
 
+projects[video_filter][version] = "3.1"
+
 projects[views][version] = "3.8"
+
+projects[wysiwyg][version] = "2.2"
 
 
 ; Themes
