@@ -36,7 +36,7 @@ projects[features][version] = "2.2"
 
 projects[imce][version] = "1.9"
 
-projects[imce_wysiwyg][version] = "1.9"
+;projects[imce_wysiwyg][version] = "1.9"
 
 projects[jquery_update][version] = "2.4"
 
