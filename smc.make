@@ -16,7 +16,7 @@ projects[analytics][version] = "1.0-alpha2"
 
 projects[bbb][version] = "1.x-dev"
 
-projects[ckeditor_lnk][version] = "2.3"
+projects[ckeditor_link][version] = "2.3"
 
 projects[ctools][version] = "1.4"
 
