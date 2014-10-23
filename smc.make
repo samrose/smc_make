@@ -8,7 +8,7 @@ projects[drupal][version] = "7.32"
 
 projects[admin_menu][version] = "3.0-rc4"
 
-projects[advanced_menu][version] = "2.4"
+projects[advanced_forum][version] = "2.4"
 
 projects[author_pane][version] = "2.0"
 
