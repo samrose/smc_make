@@ -36,7 +36,7 @@ projects[features][version] = "2.2"
 
 projects[imce][version] = "1.9"
 
-;projects[imce_wysiwyg][version] = "1.9"
+projects[imce_wysiwyg][version] = "1.0"
 
 projects[jquery_update][version] = "2.4"
 
@@ -68,6 +68,13 @@ projects[smc_base][download][url] = "https://cipartners@bitbucket.org/cipartners
 ;projects[smc_base][download][branch] = ""
 ;projects[smc_base][download][revision] = ""
 
+;Profile
 projects[smc][type] = "profile"
 projects[smc][download][type] = "git"
 projects[smc][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_profile.git"
+
+;Libraries
+libraries[ckeditor][download][type] = get
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_full.tar.gz"
+libraries[ckeditor][destination] = libraries
+libraries[ckeditor][directory_name] = ckeditor
