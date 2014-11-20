@@ -52,6 +52,8 @@ projects[phone][version] = "1.0-beta1"
 
 projects[profiler_builder][version] = "1.1"
 
+projects[tagadelic][version] = "2.x-dev"
+
 projects[token][version] = "1.5"
 
 projects[video_filter][version] = "3.1"
