@@ -62,6 +62,10 @@ projects[views][version] = "3.8"
 
 projects[wysiwyg][version] = "2.2"
 
+;Features
+projects[smc_blog_feature][type] = "feature"
+projects[smc_blog_feature][download][type] = "git"
+projects[smc_blog_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_blog_feature.git"
 
 ; Themes
 projects[bootstrap][version] = "3.0"
