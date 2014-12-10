@@ -68,6 +68,12 @@ projects[smc_blog_feature][type] = "module"
 projects[smc_blog_feature][download][type] = "git"
 projects[smc_blog_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_blog_feature.git"
 
+
+projects[smc_wiki_feature][subdir] = "custom"
+projects[smc_wiki_feature][type] = "module"
+projects[smc_wiki_feature][download][type] = "git"
+projects[smc_wiki_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_wiki_feature.git"
+
 ; Themes
 projects[bootstrap][version] = "3.0"
 
