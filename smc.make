@@ -54,11 +54,15 @@ projects[profiler_builder][version] = "1.1"
 
 projects[tagadelic][version] = "2.x-dev"
 
+projects[talk][version] = "1.0"
+
 projects[token][version] = "1.5"
 
 projects[video_filter][version] = "3.1"
 
 projects[views][version] = "3.8"
+
+projects[wikitools][version] = "1.0-alpha1"
 
 projects[wysiwyg][version] = "2.2"
 
