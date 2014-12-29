@@ -66,6 +66,13 @@ projects[wikitools][version] = "1.0-alpha1"
 
 projects[wysiwyg][version] = "2.2"
 
+;Experimental
+
+projects[diigo][subdir] = "modules"
+projects[diigo][type] = "module"
+projects[diigo][download][type] = "git"
+projects[diigo][download][url] = "https://cipartners@bitbucket.org/cipartners/diigo.git"
+
 ;Features
 projects[smc_blog_feature][subdir] = "custom"
 projects[smc_blog_feature][type] = "module"
