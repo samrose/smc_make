@@ -44,7 +44,7 @@ projects[jquery_update][version] = "2.4"
 
 projects[libraries][version] = "2.2"
 
-projects[link][version] = "1.4"
+projects[link][version] = "1.3"
 
 projects[mollom][version] = "2.12"
 
