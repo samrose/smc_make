@@ -44,6 +44,8 @@ projects[jquery_update][version] = "2.4"
 
 projects[libraries][version] = "2.2"
 
+projects[limk][version] = "1.4"
+
 projects[mollom][version] = "2.12"
 
 projects[pathauto][version] = "1.2"
