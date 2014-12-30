@@ -50,7 +50,11 @@ projects[pathauto][version] = "1.2"
 
 projects[phone][version] = "1.0-beta1"
 
+projects[prepopulate][version] = "2.0"
+
 projects[profiler_builder][version] = "1.1"
+
+projects[quickpost_bookmarklet][version] = "1.4"
 
 projects[tagadelic][version] = "2.x-dev"
 
@@ -66,12 +70,6 @@ projects[wikitools][version] = "1.0-alpha1"
 
 projects[wysiwyg][version] = "2.2"
 
-;Experimental
-
-projects[diigo][subdir] = "modules"
-projects[diigo][type] = "module"
-projects[diigo][download][type] = "git"
-projects[diigo][download][url] = "https://cipartners@bitbucket.org/cipartners/diigo.git"
 
 ;Features
 projects[smc_blog_feature][subdir] = "custom"
