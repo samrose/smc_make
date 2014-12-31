@@ -74,10 +74,16 @@ projects[wysiwyg][version] = "2.2"
 
 
 ;Custom
+
 ;projects[smc_util][subdir] = "custom"
 ;projects[smc_util][type] = "module"
 ;projects[smc_util][download][type] = "git"
 ;projects[smc_util][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_util.git"
+
+projects[smc_blog][subdir] = "custom"
+projects[smc_blog][type] = "module"
+projects[smc_blog][download][type] = "git"
+projects[smc_blog][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_blog.git"
 
 ;Features
 projects[smc_blog_feature][subdir] = "custom"
