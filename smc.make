@@ -97,7 +97,7 @@ projects[smc_bookmark_feature][download][type] = "git"
 projects[smc_bookmark_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_bookmark_feature.git"
 
 projects[smc_mindmap_feature][subdir] = "custom"
-projects[smc_minmap_feature][type] = "module"
+projects[smc_mindmap_feature][type] = "module"
 projects[smc_mindmap_feature][download][type] = "git"
 projects[smc_mindmap_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_mindmap_feature.git"
 
