@@ -115,6 +115,12 @@ projects[smc_syllabus_feature][type] = "module"
 projects[smc_syllabus_feature][download][type] = "git"
 projects[smc_syllabus_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_syllabus_feature.git"
 
+
+projects[smc_profile_feature][subdir] = "custom"
+projects[smc_profile_feature][type] = "module"
+projects[smc_profile_feature][download][type] = "git"
+projects[smc_profile_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_profile_feature.git"
+
 ; Themes
 projects[bootstrap][version] = "3.0"
 
