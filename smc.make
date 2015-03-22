@@ -48,6 +48,8 @@ projects[link][version] = "1.3"
 
 projects[mollom][version] = "2.12"
 
+projects[name][version] = "1.9"
+
 projects[pathauto][version] = "1.2"
 
 projects[phone][version] = "1.0-beta1"
