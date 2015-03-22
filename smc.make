@@ -58,7 +58,7 @@ projects[profile2][version] = "1.3"
 
 projects[profiler_builder][version] = "1.1"
 
-projects[quickpost_bookmarklet][version] = "1.4"
+projects[rules][version] = "2.9"
 
 projects[tagadelic][version] = "2.x-dev"
 
