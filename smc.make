@@ -54,6 +54,8 @@ projects[phone][version] = "1.0-beta1"
 
 projects[prepopulate][version] = "2.0"
 
+projects[profile2][version] = "1.3"
+
 projects[profiler_builder][version] = "1.1"
 
 projects[quickpost_bookmarklet][version] = "1.4"
