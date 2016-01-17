@@ -34,7 +34,7 @@ projects[entityform][version] = "2.0-beta4"
 
 projects[features][version] = "2.2"
 
-projects[features_extra][version] = "1.0-beta1"
+projects[features_extra][version] = "1.0"
 
 projects[imce][version] = "1.9"
 
