@@ -124,7 +124,7 @@ projects[smc_profile_feature][download][url] = "https://cipartners@bitbucket.org
 projects[smc_eportfolio_feature][subdir] = "custom"
 projects[smc_eportfolio_feature][type] = "module"
 projects[smc_eportfolio_feature][download][type] = "git"
-projects[smc_eportfolio_feature][download][url] = "https://github.com/samrose/smc_eportfolio.git"
+projects[smc_eportfolio_feature][download][url] = "https://github.com/samrose/smc_eportfolio_feature.git"
 ; Themes
 projects[bootstrap][version] = "3.0"
 
