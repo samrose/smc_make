@@ -6,8 +6,6 @@ projects[drupal][version] = "7.43"
 
 ; Modules
 
-projects[sdkfjlskdj][version] = "1.0"
-
 projects[admin_menu][version] = "3.0-rc4"
 
 projects[advanced_forum][version] = "2.4"
