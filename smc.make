@@ -122,7 +122,7 @@ projects[smc_eportfolio_feature][type] = "module"
 projects[smc_eportfolio_feature][download][type] = "git"
 projects[smc_eportfolio_feature][download][url] = "https://github.com/samrose/smc_eportfolio_feature.git"
 ; Themes
-projects[bootstrap][version] = "3.0"
+projects[bootstrap][version] = "3.13"
 
 projects[smc_base][type] = "theme"
 projects[smc_base][download][type] = "git"
