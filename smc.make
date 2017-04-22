@@ -8,10 +8,6 @@ projects[drupal][version] = "7.54"
 
 projects[admin_menu][version] = "3.0-rc5"
 
-;projects[advanced_forum][version] = "2.4"
-
-;projects[author_pane][version] = "2.0"
-
 projects[analytics][version] = "1.0-alpha2"
 
 ;projects[bbb][version] = "1.x-dev"
