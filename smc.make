@@ -2,79 +2,79 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.41"
+projects[drupal][version] = "7.54"
 
 ; Modules
 
-projects[admin_menu][version] = "3.0-rc4"
+projects[admin_menu][version] = "3.0-rc5"
 
-projects[advanced_forum][version] = "2.4"
+;projects[advanced_forum][version] = "2.4"
 
-projects[author_pane][version] = "2.0"
+;projects[author_pane][version] = "2.0"
 
 projects[analytics][version] = "1.0-alpha2"
 
-projects[bbb][version] = "1.x-dev"
+;projects[bbb][version] = "1.x-dev"
 
-projects[ckeditor_link][version] = "2.3"
+projects[ckeditor_link][version] = "2.4"
 
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "1.12"
 
-projects[date][version] = "2.8"
+projects[date][version] = "2.10"
 
 projects[devel][version] = "1.5"
 
-projects[diff][version] = "3.2"
+projects[diff][version] = "3.3"
 
 projects[email][version] = "1.3"
 
-projects[entity][version] = "1.5"
+projects[entity][version] = "1.8"
 
-projects[entityform][version] = "2.0-beta4"
+projects[entityform][version] = "2.0-rc3"
 
-projects[features][version] = "2.2"
+projects[features][version] = "2.10"
 
-projects[features_extra][version] = "1.0-beta1"
+projects[features_extra][version] = "1.0"
 
-projects[imce][version] = "1.9"
+projects[imce][version] = "1.10"
 
 projects[imce_wysiwyg][version] = "1.0"
 
-projects[jquery_update][version] = "2.4"
+projects[jquery_update][version] = "2.7"
 
-projects[libraries][version] = "2.2"
+projects[libraries][version] = "2.3"
 
-projects[link][version] = "1.3"
+projects[link][version] = "1.4"
 
 projects[mollom][version] = "2.12"
 
-projects[name][version] = "1.9"
+projects[name][version] = "1.10"
 
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
 projects[phone][version] = "1.0-beta1"
 
-projects[prepopulate][version] = "2.0"
+projects[prepopulate][version] = "2.1"
 
 projects[profile2][version] = "1.3"
 
-projects[profiler_builder][version] = "1.1"
+projects[profiler_builder][version] = "1.2"
 
-projects[rules][version] = "2.9"
+projects[rules][version] = "2.10"
 
 projects[tagadelic][version] = "2.x-dev"
 
-projects[talk][version] = "1.0"
+projects[talk][version] = "1.1"
 
-projects[token][version] = "1.5"
+projects[token][version] = "1.7"
 
-projects[video_filter][version] = "3.1"
+projects[video_filter][version] = "3.4"
 
-projects[views][version] = "3.8"
+projects[views][version] = "3.16"
 
 projects[wikitools][version] = "1.0-alpha1"
 
-projects[wysiwyg][version] = "2.2"
+projects[wysiwyg][version] = "2.3"
 
 
 ;Custom
@@ -100,10 +100,10 @@ projects[smc_bookmark_feature][type] = "module"
 projects[smc_bookmark_feature][download][type] = "git"
 projects[smc_bookmark_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_bookmark_feature.git"
 
-projects[smc_mindmap_feature][subdir] = "custom"
-projects[smc_mindmap_feature][type] = "module"
-projects[smc_mindmap_feature][download][type] = "git"
-projects[smc_mindmap_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_mindmap_feature.git"
+;projects[smc_mindmap_feature][subdir] = "custom"
+;projects[smc_mindmap_feature][type] = "module"
+;projects[smc_mindmap_feature][download][type] = "git"
+;projects[smc_mindmap_feature][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_mindmap_feature.git"
 
 projects[smc_wiki_feature][subdir] = "custom"
 projects[smc_wiki_feature][type] = "module"
@@ -133,7 +133,7 @@ projects[smc_base][download][url] = "https://cipartners@bitbucket.org/cipartners
 ;Profile
 projects[smc][type] = "profile"
 projects[smc][download][type] = "git"
-projects[smc][download][url] = "https://cipartners@bitbucket.org/cipartners/smc_profile.git"
+projects[smc][download][url] = "https://github.com/samrose/smc_profile.git"
 
 ;Libraries
 libraries[ckeditor][download][type] = get
